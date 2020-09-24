@@ -1,5 +1,8 @@
 # Telegram-Bot
 
+<h2>Required</h2>
+pyTelegramBotAPI       3.7.3 
+
 <h3>1-Adicionar o Bot no telegram @enviamensagerbot </h3>
 
 ![Boty](https://user-images.githubusercontent.com/43317376/94194873-a9713f00-fe88-11ea-9d01-3a053d2cb9e0.png)
