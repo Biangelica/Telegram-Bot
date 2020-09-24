@@ -15,4 +15,8 @@ ln -s /opt/lampp/htdocs/formulario/telegramMsg /usr/bin/telegramMsg
 chmod 777 /opt/lampp/htdocs/formulario/telegramMsg
 
 4-Agora digite o comando telegramMsg "chat_id" "texto" para que a mensagem seja enviada para o usuario
+![Boty3](https://user-images.githubusercontent.com/43317376/94196333-952e4180-fe8a-11ea-92c8-a444e8e887bf.png)
+
+Então o bot irá lhe enviar a mensagem
+![image](https://user-images.githubusercontent.com/43317376/94196374-a24b3080-fe8a-11ea-9f61-de8057bbb33e.png)
 
